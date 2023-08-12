@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-        Hello World
+        Kamusta, world!
     </body>
 </html>
